@@ -4,7 +4,7 @@ I am a Software Engineering student in Malaysia. I'm currently using GitHub to k
 
 ### 🔭 Currently Learning
 I've touched a bit of these, mostly the basics for now:
-* **Languages:** Python, Java, and C#.
+* **Languages:** Python, Java, and C++.
 * **Web:** Working with Django and understanding how APIs and the DOM work.
 * **Automation:** Just starting to look into software testing and tools like Postman.
 
