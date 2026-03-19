@@ -28,7 +28,7 @@ I'm currently "touching a bit of everything" to build a strong foundation. My cu
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Xe-Lam]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Xe-Lam&show_icons=true&theme=radical)
 
 ---
 
