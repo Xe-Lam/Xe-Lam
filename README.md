@@ -20,9 +20,17 @@ I'm currently "touching a bit of everything" to build a strong foundation. My cu
 
 ### 🛠 Tech & Tools I've Explored
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEGO-E10614?style=flat&logo=lego&logoColor=white" />
 </p>
 
 ---
