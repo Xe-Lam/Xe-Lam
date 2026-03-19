@@ -28,6 +28,7 @@ I'm currently "touching a bit of everything" to build a strong foundation. My cu
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PythonAnywhere-1F90FF?style=flat&logo=pythonanywhere&logoColor=white" />
   
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/LEGO-E10614?style=flat&logo=lego&logoColor=white" />
